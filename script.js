@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["I'm Amin Maro and i'm a Teacher."],
+        strings: ["I'm Amin Maro and I'm a Teacher."],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
